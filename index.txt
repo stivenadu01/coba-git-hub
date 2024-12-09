@@ -1,2 +1,3 @@
 - initial toko online
 - update halaman produk
+- tambah fitur kategori
